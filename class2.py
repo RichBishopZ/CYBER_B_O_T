@@ -11,9 +11,9 @@ import random
 # .format()
 
 
-name = 'John Doe'
-age = 25
-amount = 350000.60
+name = 'John Doe' 'Adam Smith'
+age = 25, 40
+amount = 350000.60, 100000.
 timer = int(input("enter a timer in seconds: "))
 number = random.randint(1000, 1000000)
 my_list = ['cup', 'cap', 'phone']
